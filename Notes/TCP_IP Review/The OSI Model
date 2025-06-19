@@ -1,0 +1,11 @@
+The OSI model is a conceptual model that componentizes telecommunication functions into 7 layers
+
+
+7. Application Layer - Data - High-level APIs, resource sharing, remote file access
+6. Presentation Layer - Data - Translation of data between a networking service and an application
+    (character encoding, data compression, encryption/decryption)
+5. Session Layer - Data - Managing session communications
+4. Transport Layer - TCP/UDP - Reliable transmission of data sefments between point on a network
+3. Network Layer - Packet - Structuring and managing a multi-node network like addressing routing and traffic control
+2. Data Link Layer - Frame - Reliable transmission of data frames between two nodes connected by a physical layer
+1. Physical Layer - Bit - Transmission and reception of raw bit streams
