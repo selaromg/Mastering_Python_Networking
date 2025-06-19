@@ -1,0 +1,44 @@
+TCP (Transmission Control Protocol)
+OSI (Open Systems Interconnection)
+UDP (User Datagram Protocol)
+LAN (Local Area Network)
+ISP (Internet Service Provider)
+IoT (Internet of Things)
+IP (Internet Protocol)
+MDF (Main Distribution Frame)
+IDF (Intermediate Distribution Frame)
+
+
+
+
+The Internet is a global computer network consisting of a web of inter-networks connecting large and small networks together
+                                        AKA
+A network of networks without a centralized owner
+
+LAN can be characterized as internal network communications, for example home networks consisting of a modem/gateway along with
+    a wireless access point connecting smart devices and allowing for intercommunication
+
+LAN data is passed through to ISP in order to communicate with the larger available network.
+An ISP is an aggregation of small network combined into a larger network that is maintained.
+ISP networks often consist of many edge nodes that aggregate traffic to their core network
+Internet exchange points, these are specialized ISP nodes, connects to other ISPs to pass traffic appropriately to destination
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
+
+MDF (Main Distribution Frame): central location where servers are placed
+IDF (Intermediate Distribution Frame): aggregated location closer to user (switches, servers)
+
+
+Access Layer - switch ports users are connected to
+    Distribution Layer - IDF
+        Core Layer - MDF
+
+IaaS (Infrastructure as a Service): Hyper-data center -- typically arranged as a multistage clos network
+
+Clos Theorem: If k >= 2n-1, then a new connection can always be added without rearrangement
+
+
+How can we reduce network latency? One solution would be to reduce the number of networks the end-user requests traverse through.
+    Try to connect as closely as possible to the end user -- aka meet the user at an edge data center --> edge centers located near ISP central locations
+
