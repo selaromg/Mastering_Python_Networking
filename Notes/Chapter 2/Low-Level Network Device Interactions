@@ -1,0 +1,8 @@
+Purpose of Chapter
+
+- Challenges of CLI
+- Construct a virtual lab
+- Python Pexpect library
+- Python Paramiko library
+- examples from other libraries
+- downsides of Pexpect and Paramiko

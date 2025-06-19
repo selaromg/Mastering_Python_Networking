@@ -9,3 +9,8 @@ The OSI model is a conceptual model that componentizes telecommunication functio
 3. Network Layer - Packet - Structuring and managing a multi-node network like addressing routing and traffic control
 2. Data Link Layer - Frame - Reliable transmission of data frames between two nodes connected by a physical layer
 1. Physical Layer - Bit - Transmission and reception of raw bit streams
+
+
+NAT (network address translation) is typically used for translating a range of private IPv4 addresses into publicly routable IPv4 addresses.
+    BUT can also mean a translation between IPv4 and IPv6
+
